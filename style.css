@@ -1,0 +1,26 @@
+table{
+width:600px;
+
+
+}
+th {
+	text-align: left;
+}
+table tr th{
+	border: 1px solid #000;
+	background-color: #F0F8FF;
+
+
+
+}
+table tbody tr td{
+	border: 1px solid #000;
+	border-collapse: collapse;
+}
+tr td{
+	padding:10px;
+	background-color: #7FFFD4;
+}
+tr:nth-child{
+	background-color: #fff;
+}
